@@ -1,0 +1,37 @@
+6
+Melequento Junior
+123456
+169386917
+Análise de Sistemas
+24/9/2023 19:26:16
+
+Viadinho Souza da Silva
+123456
+172462329
+Cìência da Computação
+29/9/2023 13:0:39
+
+Jello Biafra Silva
+123456
+160164857
+Cìência da Computação
+30/9/2023 13:21:31
+
+Mario Tota
+123456
+182785512
+Cìência da Computação
+30/9/2023 13:21:54
+
+Catarrento Souza
+123456
+137364737
+Cìência da Computação
+30/9/2023 13:23:31
+
+Antonio Souza
+123456
+192402732
+Desenvolvimento de Software
+3/10/2023 19:3:56
+
